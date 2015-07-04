@@ -1,0 +1,21 @@
+{
+    "name": "algosol/phpalgo",
+    "description": "a library that contain a set of methods that will do a Complex things for you and return a simple to understand result.",
+    "license": "MIT",
+    "keywords": ["algorithm","helpers"],
+    "authors": [
+        {
+            "name": "Amri Marwen",
+            "email": "marwen3amri@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "algoSol\\phpAlgo\\": "src"
+        }
+    }
+}
