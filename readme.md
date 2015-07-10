@@ -12,7 +12,7 @@
 **Example :**
  ```php
    $str = PhpAlgo\Str\removeallSpaces("all     spaces will     be removed    from this       string") ;
-echo $str;
+   echo $str;
  ```
  **Output :**
 ```
