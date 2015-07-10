@@ -1,1 +1,10 @@
-a library that contain a set of methods that will do a Complex things for you and return a simple to understand result.",
+# String
+### 1. remove all spaces from a string
+
+
+ ```php
+     PhpAlgo\Str\removeallSpaces("this    string     should be wihtout any     spaces") ;
+ ```
+
+
+
